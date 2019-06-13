@@ -13,6 +13,7 @@
  *
  * @since 1.0.0
  */
+var_dump('sdfg');
 define( 'WPINC', 'wp-includes' );
 
 // Include files required for initialization.
